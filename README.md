@@ -1,5 +1,9 @@
 # <samp>My neovim configuration</samp>
-This is my personal Neovim configuration optimized for **Linux.**
+<p align="center">
+  <img width="458" alt="image" src="https://github.com/user-attachments/assets/e1509ffd-0ce7-4183-9019-b70832131c17" />
+</p>
+
+This is my personal Neovim configuration optimized for **Linux**
 
 ## Installation
 ### 1. Install [Neovim](https://github.com/neovim/neovim)
